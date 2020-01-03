@@ -3,5 +3,3 @@ kickstarter = Nokogiri::HTML(html)
 
 require "Nokogiri"
 require "pry"
-
-
